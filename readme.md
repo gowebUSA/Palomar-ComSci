@@ -6,7 +6,7 @@ Computer Science is the study and design of computer systems: both hardware and 
 #### Program Requirements: 
 - CSCI 112 Programming Fundamentals I 4.0
 - CSCI 114 Programming Fundamentals II 4.0
-- CSCI 210 Data Structures 4.0
+- **CSCI 210 Data Structures 4.0 (08/26/24)**
 - CSCI 212 Machine Organization and Assembly Language 4.0
 - CSCI 222 C++ and Object-Oriented Programming 4.0
 
@@ -18,5 +18,5 @@ CIS: Data Analytics is the science of analyzing raw data in order to make inform
 - CSIT 128 Foundations of Data Science 4.0
 - CSIT 150 Introduction to SQL 3.0
 - CSIT 175 Python Programming 3.0
-- CSIT 226 Data Visualization 3.0
+- **CSIT 226 Data Visualization 3.0 (08/26/24)**
 - CSIT 230 Data Modeling 3.0
