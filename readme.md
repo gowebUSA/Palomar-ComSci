@@ -4,8 +4,8 @@
 Computer Science is the study and design of computer systems: both hardware and software. Computer scientists are primarily concerned with the design of algorithms, languages, hardware architectures, systems software, applications software and tools. Emphasis in the Computer Science program is placed on the ability to solve problems and think independently. The program offers a foundation in data structures, computer architecture, software design, algorithms, programming languages, and object-oriented programming. See a Counselor for additional university transfer requirements in this major.
 
 #### Program Requirements: 
-- CSCI 112 Programming Fundamentals I 4.0
-- CSCI 114 Programming Fundamentals II 4.0
+- CSCI 112 Programming Fundamentals I 4.0, Waived (8/2024)
+- CSCI 114 Programming Fundamentals II 4.0, Waived (8/2024)
 - **CSCI 210 Data Structures 4.0 (08/26/24)**
 - CSCI 212 Machine Organization and Assembly Language 4.0
 - CSCI 222 C++ and Object-Oriented Programming 4.0
