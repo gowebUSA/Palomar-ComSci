@@ -4,7 +4,8 @@
 <summary>Loops</summary>
 
    - For Loops
-      * `for (int i = 1; i <= 5; i++)`
+
+     `for (int i = 1; i <= 5; i++)`
       * Output:
          - i = 1
          - i = 2
