@@ -2,7 +2,13 @@
 - Link: https://www.youtube.com/watch?v=mkUt6-y1MSs&list=PL-QRwhZe4lltW73TjetSj_ppKyddWs4W6
 
 ## Requirements
-
+- Python libraries and framework
+    - Numpy
+    - Pandas
+    - Sklearn
+    - Django
+    - IDE (VSCode, IntelliJ, Pycharm)
+    - Chrome browser
 
 
 ## Steps
