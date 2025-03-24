@@ -1,4 +1,5 @@
 # House Price Prediction Machine Learning
+The Django project on the House Price Prediction System utilizes essential components such as software, datasets, and Python libraries. It demonstrates the final working website built using Django. Django is chosen for this project due to its reliability and ease of use as a Python web framework.
 - Link: https://www.youtube.com/watch?v=mkUt6-y1MSs&list=PL-QRwhZe4lltW73TjetSj_ppKyddWs4W6
 
 ## Requirements
