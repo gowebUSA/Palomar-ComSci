@@ -13,7 +13,8 @@ The Django project on the House Price Prediction System utilizes essential compo
 
 
 ## Steps
-
+- Train the Model using Jupyter - [HousePricePredictionML.ipynb](https://colab.research.google.com/drive/1I5dmDap7y9FSPmch7uXgUofoe6nnj_LM?usp=sharing)
+- 
 
 
 ## Reference
