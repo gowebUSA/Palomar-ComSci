@@ -14,7 +14,20 @@ The Django project on the House Price Prediction System utilizes essential compo
 
 ## Steps
 - Train the Model using Jupyter - [HousePricePredictionML.ipynb](https://colab.research.google.com/drive/1I5dmDap7y9FSPmch7uXgUofoe6nnj_LM?usp=sharing)
-- 
+- Use Pycharm
+
+### Pycharm
+- Install Pycharm
+- Install Django
+    * `pip install --user django`
+- Install Anaconda
+- Open Pycharm and create +New Project
+  * Ensure that environment is correct for Anaconda
+  * Use the following starting codes
+      - Start project: `python -m django startproject HousePricePrediction`
+      - Change the directory: `cd HousePricePrediction`
+      - `python manage.py runserver`
+   
 
 
 ## Reference
